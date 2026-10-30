@@ -1,7 +1,7 @@
 # Digital Love Letter Maker & Private Couple Surprise Pages
 
 [![Official Generator](https://img.shields.io/badge/Live%20Builder-Heartreveals.com-ff758f?style=for-the-badge&logo=heart&logoColor=white)](https://heartreveals.com)
-[![Direct Creator](https://img.shields.io/badge/Create%20Now-Wizard-purple?style=for-the-badge)](https://heartreveals.com/create.html)
+[![Direct Creator](https://img.shields.io/badge/Create%20Now-Wizard-purple?style=for-the-badge)](https://heartreveals.com/create)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 A curated open showcase and guide for creating **interactive digital love letters**, private surprise websites, and multimedia keepsakes for modern couples. Powered by **[Heartreveals](https://heartreveals.com)**.
@@ -23,7 +23,7 @@ Traditional paper cards are fragile, easy to misplace, and static. A **digital l
 
 ## 🚀 How to Create a Love Note Online
 
-1. Head over to the **[Heartreveals Creation Wizard](https://heartreveals.com/create.html)**.
+1. Head over to the **[Heartreveals Creation Wizard](https://heartreveals.com/create)**.
 2. Select your aesthetic palette (e.g. Parisian Rose, Starlight Midnight, Golden Sunset).
 3. Write your letter, upload up to 8 favorite photos, and choose romantic background audio.
 4. Set an unlock date or instant access.
